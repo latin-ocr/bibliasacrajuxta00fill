@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliasacrajuxta00fill_1418.png"; bbox 0 0 2391 3861; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 1764 1956 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 1764 1956 1812">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 1764 1956 1812; baseline -0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 400 1772 513 1805; x_wconf 75' lang='lat' dir='ltr'><strong>Paris.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 530 1791 574 1796; x_wconf 90' lang='lat'>—</span> <span class='ocrx_word' id='word_1_3' title='bbox 594 1772 815 1812; x_wconf 53' lang='lat' dir='ltr'>ImWimerie</span> <span class='ocrx_word' id='word_1_4' title='bbox 837 1771 878 1802; x_wconf 84' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_5' title='bbox 900 1771 933 1803; x_wconf 82' lang='lat' dir='ltr'>la</span> <span class='ocrx_word' id='word_1_6' title='bbox 954 1769 1124 1802; x_wconf 81' lang='lat' dir='ltr'>Librairie</span> <span class='ocrx_word' id='word_1_7' title='bbox 1147 1769 1355 1801; x_wconf 74' lang='lat' dir='ltr'>LETOUZEY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1386 1767 1415 1799; x_wconf 68' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_9' title='bbox 1443 1764 1540 1806; x_wconf 71' lang='lat' dir='ltr'>ANE,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1562 1766 1618 1805; x_wconf 87' lang='grc'>17,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1637 1774 1696 1798; x_wconf 80' lang='lat' dir='ltr'>rue</span> <span class='ocrx_word' id='word_1_12' title='bbox 1720 1765 1769 1798; x_wconf 87' lang='lat' dir='ltr'>du</span> <span class='ocrx_word' id='word_1_13' title='bbox 1786 1764 1956 1805; x_wconf 55' lang='lat' dir='ltr'>Tertage„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
